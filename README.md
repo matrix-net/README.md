@@ -16,11 +16,6 @@
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
-## 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
-</p>
-
 ## 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
@@ -28,7 +23,7 @@
   <img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=333333" alt="JAX">
   <img src="https://img.shields.io/badge/Triton-FF6F00?style=flat&logoColor=333333" alt="Triton">
 </p>
-  
+
 <p align="center">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
   <img src="https://img.shields.io/badge/OpenMPI-76B900?style=flat&logoColor=333333" alt="OpenMPI">
@@ -45,6 +40,11 @@
   <img src="https://img.shields.io/badge/PySpark-028CF0?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
   <img src="https://img.shields.io/badge/Dask-028CF0?style=flat&logo=dask&logoColor=333333" alt="Dask">
   <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
+</p>
+
+## 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
 </p>
 
 ## 🤝 Connect with Me
