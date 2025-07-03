@@ -21,13 +21,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
 </p>
 
-<!-- 使用更稳定的统计服务 -->
-<div align="center">
-  <a href="https://github.com/matrix-net">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrix-net&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-net&layout=compact&theme=dark&langs_count=8"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/matrix-net/matrix-net/main/counter.json&label=Visitors&color=blue">
+</p>
 
 
 ## 🤝 Connect with Me
