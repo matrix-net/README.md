@@ -10,11 +10,11 @@
   </a>
 </p>
 
-## 📈 Activity Graph
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
-
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matrix-net&theme=radical)](https://git.io/streak-stats)
+
+## 📈 Activity Graph
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
 ## 🔧 Technologies & Tools
 <p align="center">
