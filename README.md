@@ -16,16 +16,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-
-## 📊 Weekly Development Breakdown
-<!-- Replace with your own WakaTime stats if desired -->
-```mermaid
-pie title Weekly Development 
-    "JavaScript" : 35
-    "Python" : 25
-    "TypeScript" : 20
-    "Docker" : 10
-    "Other" : 10
+## 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
+</p>
 
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
