@@ -21,6 +21,27 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
 </p>
 
+## 🔧 AI/ML Technologies & Tools
+<p align="center">
+  <!-- 核心框架 -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/JAX-F3745D?style=for-the-badge&logo=jax&logoColor=white" alt="JAX">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  
+  <!-- 高性能计算 -->
+  <br>
+  <img src="https://img.shields.io/badge/Triton-FF6F00?style=for-the-badge&logo=triton&logoColor=white" alt="Triton">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  <img src="https://img.shields.io/badge/OpenMP-0096FF?style=for-the-badge&logo=openmp&logoColor=white" alt="OpenMP">
+  
+  <!-- 数据处理和部署 -->
+  <br>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_HANDLE])
