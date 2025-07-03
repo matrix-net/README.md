@@ -62,6 +62,15 @@
   <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
 </p>
 
+<!-- 深蓝色系图标 -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=0d253f" alt="PyTorch">
+
+<!-- 炭黑色系图标 -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=1a1a1a" alt="TensorFlow">
+
+<!-- 深紫色系图标 -->
+<img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=2d0a3d" alt="JAX">
+
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
