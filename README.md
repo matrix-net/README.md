@@ -62,14 +62,26 @@
   <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
 </p>
 
-<!-- 深蓝色系图标 -->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=0d253f" alt="PyTorch">
+## 🔧 Technologies & Tools
+<p align="center">
+  <!-- 核心框架 -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=333333" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=333333" alt="JAX">
+  <img src="https://img.shields.io/badge/Triton-FF6F00?style=flat&logoColor=333333" alt="Triton">
+  
+  <!-- 辅助工具 -->
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=333333" alt="ONNX">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=333333" alt="K8s">
+</p>
 
-<!-- 炭黑色系图标 -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=1a1a1a" alt="TensorFlow">
-
-<!-- 深紫色系图标 -->
-<img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=2d0a3d" alt="JAX">
+<p align="center">
+  <!-- 编程语言 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=333333" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=333333" alt="Julia">
+</p>
 
 
 ## 🤝 Connect with Me
