@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
   <img src="https://img.shields.io/badge/Julia-3776AB?style=flat&logo=julia&logoColor=333333" alt="Julia">
 <p align="center">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
-  <img src="https://img.shields.io/badge/Dask-FD6C3F?style=flat&logo=dask&logoColor=333333" alt="Dask">
+  <img src="https://img.shields.io/badge/PySpark-028CF0?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
+  <img src="https://img.shields.io/badge/Dask-028CF0?style=flat&logo=dask&logoColor=333333" alt="Dask">
   <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
 </p>
 
