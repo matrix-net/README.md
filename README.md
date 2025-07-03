@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
   <img src="https://img.shields.io/badge/OpenMPI-0066CC?style=flat&logoColor=333333" alt="OpenMPI">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=333333" alt="ONNX">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=333333" alt="K8s">
 </p>
 
 <p align="center">
