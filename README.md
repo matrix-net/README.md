@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=333333" alt="TensorFlow">
   <img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=333333" alt="JAX">
   <img src="https://img.shields.io/badge/Triton-FF6F00?style=flat&logoColor=333333" alt="Triton">
+</p>
   
+<p align="center">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
   <img src="https://img.shields.io/badge/OpenMPI-76B900?style=flat&logoColor=333333" alt="OpenMPI">
   <img src="https://img.shields.io/badge/ONNX-76B900?style=flat&logo=onnx&logoColor=333333" alt="ONNX">
@@ -37,6 +39,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=333333" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
   <img src="https://img.shields.io/badge/Julia-3776AB?style=flat&logo=julia&logoColor=333333" alt="Julia">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-028CF0?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
   <img src="https://img.shields.io/badge/Dask-028CF0?style=flat&logo=dask&logoColor=333333" alt="Dask">
