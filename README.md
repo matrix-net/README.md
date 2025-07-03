@@ -1,6 +1,6 @@
 # Hi there 👋 I'm xyz
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=matrix-net.matrix-net)](https://github.com/matrix-net)
+[![Visitors](https://komarev.com/ghpvc/?username=matrix-net&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/matrix-net)
 [![GitHub followers](https://img.shields.io/github/followers/matrix-net?style=social)](https://github.com/matrix-net)
 
 <p align="center">
