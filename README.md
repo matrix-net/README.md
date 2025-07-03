@@ -16,7 +16,7 @@
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
-## 🔧 Technologies & Tools
+## 🔧 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
 </p>
