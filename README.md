@@ -21,6 +21,19 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
 </p>
 
+<!-- 使用更稳定的统计服务 -->
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&langs_count=8"/>
+  </a>
+</div>
+
+<!-- 备用访客计数器 -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Visitors&color=12&icon=5&pretty=true" alt="Visitor Count">
+</p>
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_HANDLE])
