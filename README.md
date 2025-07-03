@@ -29,10 +29,6 @@
   </a>
 </div>
 
-<!-- 备用访客计数器 -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Visitors&color=12&icon=5&pretty=true" alt="Visitor Count">
-</p>
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
