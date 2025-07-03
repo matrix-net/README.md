@@ -10,16 +10,16 @@
   </a>
 </p>
 
-## 🔧 Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
-</p>
-
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matrix-net&theme=radical)](https://git.io/streak-stats)
+
+## 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
+</p>
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
