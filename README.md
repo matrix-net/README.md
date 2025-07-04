@@ -30,7 +30,7 @@ Exploring future AI Application beyond ChatGPT
 </details>
 <details>
 <summary><b>🌐 Next-gen Network Architecture</b></summary>
-Designing efficient and scalable neural network architecture beyond transformers
+Designing efficient and scalable neural network architecture beyond resnet & transformers
 </details>
 <details>
 <summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
