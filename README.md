@@ -23,6 +23,13 @@
   </a>
 </div>
 
+## 🚀 What I Do
+
+- Next-gen AI Paradigm
+- Next-gen Network Architecture
+- Next-gen Optimizer
+- Share insights for the AI research community
+
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
