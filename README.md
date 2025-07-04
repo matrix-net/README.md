@@ -26,13 +26,12 @@
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
+## 🔧 Technologies
 <p align="center">
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
   <strong style="color: #fff; font-size: 1.2em;">Deep Learning Frameworks</strong>
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
 </p>
-
-## 🔧 Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=333333" alt="TensorFlow">
@@ -41,17 +40,32 @@
 </p>
 
 <p align="center">
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+  <strong style="color: #fff; font-size: 1.2em;">Acceleration & Deployment</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
   <img src="https://img.shields.io/badge/OpenMPI-76B900?style=flat&logoColor=333333" alt="OpenMPI">
   <img src="https://img.shields.io/badge/ONNX-76B900?style=flat&logo=onnx&logoColor=333333" alt="ONNX">
 </p>
 
 <p align="center">
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+  <strong style="color: #fff; font-size: 1.2em;">Programming Languages</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-9558B2?style=flat&logo=python&logoColor=333333" alt="Python">
   <img src="https://img.shields.io/badge/C++-9558B2?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
   <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=333333" alt="Julia">
 </p>
 
+<p align="center">
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+  <strong style="color: #fff; font-size: 1.2em;">Distributed Computing</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-028CF0?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
   <img src="https://img.shields.io/badge/Dask-028CF0?style=flat&logo=dask&logoColor=333333" alt="Dask">
