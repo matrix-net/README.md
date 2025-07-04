@@ -49,7 +49,7 @@
 
 <p align="center">
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
-  <strong style="color: #fff; font-size: 1.2em;">Acceleration & Deployment</strong>
+  <strong style="color: #fff; font-size: 1.2em;">ACCELERATION & DEPLOYMENT</strong>
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
 </p>
 <p align="center">
@@ -60,7 +60,7 @@
 
 <p align="center">
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
-  <strong style="color: #fff; font-size: 1.2em;">Programming Languages</strong>
+  <strong style="color: #fff; font-size: 1.2em;">PROGRAMMING LANGUAGES</strong>
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
 </p>
 <p align="center">
@@ -71,7 +71,7 @@
 
 <p align="center">
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
-  <strong style="color: #fff; font-size: 1.2em;">Distributed Computing</strong>
+  <strong style="color: #fff; font-size: 1.2em;">DISTRIBUTED COMPUTINGg</strong>
   <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
 </p>
 <p align="center">
