@@ -27,7 +27,7 @@
 
 - Next-gen AI Paradigm
 - Next-gen Network Architecture
-- Next-gen Optimizer
+- Next-gen Optimization Algorithm
 - Share insights for the AI research community
 
 ## 📈 Activity Graph
