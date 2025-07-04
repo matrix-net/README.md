@@ -26,6 +26,12 @@
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
+<p align="center">
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+  <strong style="color: #fff; font-size: 1.2em;">Deep Learning Frameworks</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+</p>
+
 ## 🔧 Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
