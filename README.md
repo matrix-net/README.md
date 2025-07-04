@@ -39,6 +39,25 @@
   ![Progress](https://progress-bar.dev/75/?title=Development&color=76b900)
 - **Share insights for the AI research community**  
   ![Progress](https://progress-bar.dev/100/?title=Sharing&color=028cf0)
+
+
+## 🚀 What I Do
+<details>
+<summary><b>🔮 Next-gen AI Paradigm</b> (click to expand)</summary>
+Exploring future AI architectures beyond transformers
+</details>
+<details>
+<summary><b>🌐 Next-gen Network Architecture</b></summary>
+Designing efficient and scalable neural network structures
+</details>
+<details>
+<summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
+Developing faster and more robust training methods
+</details>
+<details>
+<summary><b>📚 Share insights for the AI research community</b></summary>
+Publishing papers and open-source projects
+</details>
   
 
 ## 📈 Activity Graph
