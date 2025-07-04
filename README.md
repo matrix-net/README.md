@@ -24,14 +24,6 @@
 </div>
 
 ## 🚀 What I Do
-
-- Next-gen AI Paradigm
-- Next-gen Network Architecture
-- Next-gen Optimization Algorithm
-- Share insights for the AI research community
-
-
-## 🚀 What I Do
 <details>
 <summary><b>🔮 Next-gen AI Paradigm</b></summary>
 Exploring future AI Application beyond ChatGPT
@@ -48,7 +40,6 @@ Developing faster and more robust optimizers
 <summary><b>📚 Share insights for the AI research community</b></summary>
 Publishing papers and open-source projects
 </details>
-
 
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
