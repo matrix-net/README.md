@@ -27,25 +27,18 @@
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
 ## 🔧 Technologies
-<p align="center" style="position: relative;">
+<p align="center">
+  <span style="display:inline-block; width:40px; height:2px; background:linear-gradient(90deg, #FF6F00, #EE4C2C); margin:0 12px; vertical-align: middle;"></span>
   <strong style="
-    color: #EE4C2C;
-    font-size: 1.2em;
-    font-weight: 600;
-    padding: 0 20px;
-    position: relative;
-    z-index: 2;
-    background: #f8f9fa; /* 匹配页面背景色 */
-  ">Deep Learning Frameworks</strong>
-  <span style="
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 50%;
-    height: 1px;
-    background: #EE4C2C;
-    z-index: 1;
-  "></span>
+    font-size: 1.3em;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    letter-spacing: 0.5px;
+    background: linear-gradient(90deg, #FF6F00, #EE4C2C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  ">DEEP LEARNING FRAMEWORKS</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:linear-gradient(90deg, #EE4C2C, #FF6F00); margin:0 12px; vertical-align: middle;"></span>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
