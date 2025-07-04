@@ -26,15 +26,7 @@
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
-<style>
-  .icon-hover {
-    transition: transform 0.5s ease, filter 0.3s ease;
-  }
-  .icon-hover:hover {
-    transform: rotate(15deg);
-    filter: drop-shadow(0 0 4px rgba(238, 76, 44, 0.7));
-  }
-</style>
+
 
 <span class="icon-hover">⚙️</span> <span style="color:#028CF0">Tools & Technologies</span>
 
