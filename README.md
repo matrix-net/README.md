@@ -33,197 +33,21 @@
 
 ## 🚀 What I Do
 <details>
-<summary><b>🔮 Next-gen AI Paradigm</b> (click to expand)</summary>
-Exploring future AI architectures beyond transformers
+<summary><b>🔮 Next-gen AI Paradigm</b></summary>
+Exploring future AI Application beyond ChatGPT
 </details>
 <details>
 <summary><b>🌐 Next-gen Network Architecture</b></summary>
-Designing efficient and scalable neural network structures
+Designing efficient and scalable neural network architecture beyond transformers
 </details>
 <details>
 <summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
-Developing faster and more robust training methods
+Developing faster and more robust optimizers
 </details>
 <details>
 <summary><b>📚 Share insights for the AI research community</b></summary>
 Publishing papers and open-source projects
 </details>
-
-
-## 🚀 What I Do
-
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin-top: 30px;
-">
-  
-  <!-- AI Paradigm -->
-  <div class="card" style="
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-    border-radius: 15px;
-    padding: 25px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.4s ease, box-shadow 0.4s ease;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'">
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 5px;
-      background: linear-gradient(90deg, #FF6F00, #EE4C2C);
-    "></div>
-    <h3 style="
-      color: #FF6F00;
-      margin-top: 0;
-      font-size: 1.4em;
-      display: flex;
-      align-items: center;
-    ">
-      <span style="
-        display: inline-block;
-        width: 12px;
-        height: 12px;
-        background: #FF6F00;
-        border-radius: 50%;
-        margin-right: 12px;
-        box-shadow: 0 0 10px #FF6F00;
-      "></span>
-      Next-gen AI Paradigm
-    </h3>
-    <p style="color: #e0e0ff; line-height: 1.6;">
-      Exploring future AI architectures beyond transformers and developing novel learning paradigms
-    </p>
-  </div>
-  
-  <!-- Network Architecture -->
-  <div class="card" style="
-    background: linear-gradient(135deg, #0a2e38 0%, #1a2e1a 100%);
-    border-radius: 15px;
-    padding: 25px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.4s ease, box-shadow 0.4s ease;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'">
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 5px;
-      background: linear-gradient(90deg, #028CF0, #00D1B2);
-    "></div>
-    <h3 style="
-      color: #028CF0;
-      margin-top: 0;
-      font-size: 1.4em;
-      display: flex;
-      align-items: center;
-    ">
-      <span style="
-        display: inline-block;
-        width: 12px;
-        height: 12px;
-        background: #028CF0;
-        border-radius: 50%;
-        margin-right: 12px;
-        box-shadow: 0 0 10px #028CF0;
-      "></span>
-      Next-gen Network Architecture
-    </h3>
-    <p style="color: #e0e0ff; line-height: 1.6;">
-      Designing efficient and scalable neural network structures for complex problem solving
-    </p>
-  </div>
-  
-  <!-- Optimization Algorithm -->
-  <div class="card" style="
-    background: linear-gradient(135deg, #2D0A31 0%, #1A1A2E 100%);
-    border-radius: 15px;
-    padding: 25px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.4s ease, box-shadow 0.4s ease;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'">
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 5px;
-      background: linear-gradient(90deg, #9558B2, #F3745D);
-    "></div>
-    <h3 style="
-      color: #9558B2;
-      margin-top: 0;
-      font-size: 1.4em;
-      display: flex;
-      align-items: center;
-    ">
-      <span style="
-        display: inline-block;
-        width: 12px;
-        height: 12px;
-        background: #9558B2;
-        border-radius: 50%;
-        margin-right: 12px;
-        box-shadow: 0 0 10px #9558B2;
-      "></span>
-      Next-gen Optimization Algorithm
-    </h3>
-    <p style="color: #e0e0ff; line-height: 1.6;">
-      Developing faster and more robust training methods for deep learning models
-    </p>
-  </div>
-  
-  <!-- Community Sharing -->
-  <div class="card" style="
-    background: linear-gradient(135deg, #0A2E38 0%, #1A2E1A 100%);
-    border-radius: 15px;
-    padding: 25px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.4s ease, box-shadow 0.4s ease;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)'">
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 5px;
-      background: linear-gradient(90deg, #76B900, #00D1B2);
-    "></div>
-    <h3 style="
-      color: #76B900;
-      margin-top: 0;
-      font-size: 1.4em;
-      display: flex;
-      align-items: center;
-    ">
-      <span style="
-        display: inline-block;
-        width: 12px;
-        height: 12px;
-        background: #76B900;
-        border-radius: 50%;
-        margin-right: 12px;
-        box-shadow: 0 0 10px #76B900;
-      "></span>
-      Share Insights for AI Community
-    </h3>
-    <p style="color: #e0e0ff; line-height: 1.6;">
-      Publishing research findings and contributing to open-source AI projects
-    </p>
-  </div>
-</div>
-
 
 
 ## 📈 Activity Graph
