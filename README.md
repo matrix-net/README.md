@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/matrix-net">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrix-net&show_icons=true&theme=radical&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-net&layout=compact&theme=radical"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-net&layout=compact&theme=radical"/> -->
   </a>
 </p>
 
