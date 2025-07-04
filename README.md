@@ -28,16 +28,9 @@
 
 ## 🔧 Technologies
 <p align="center">
-  <span style="display:inline-block; width:30px; height:2px; background:#EE4C2C; margin:0 10px; vertical-align: middle;"></span>
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EE4C2C" stroke-width="2" style="vertical-align: middle; margin-right: 8px;">
-    <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-    <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-  </svg>
-  <strong style="color: #EE4C2C; font-size: 1.3em; font-family: 'Segoe UI', Tahoma, sans-serif; vertical-align: middle;">Deep Learning Frameworks</strong>
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EE4C2C" stroke-width="2" style="vertical-align: middle; margin-left: 8px;">
-    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-  </svg>
-  <span style="display:inline-block; width:30px; height:2px; background:#EE4C2C; margin:0 10px; vertical-align: middle;"></span>
+  <span style="display:inline-block; width:40px; height:2px; background:#EE4C2C; margin:0 12px; vertical-align: middle;"></span>
+  <strong style="color: #EE4C2C; font-size: 1.3em; font-family: 'Segoe UI', Tahoma, sans-serif; letter-spacing: 0.5px;">DEEP LEARNING FRAMEWORKS</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#EE4C2C; margin:0 12px; vertical-align: middle;"></span>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
