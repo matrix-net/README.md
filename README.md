@@ -10,12 +10,6 @@
   </a>
 </p>
 
-
-## 🔥 Streak Stats
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=matrix-net&theme=radical)](https://git.io/streak-stats)
-</div>
-
 ## 🔥 Streak Stats
 <div align="center">
   <a href="https://github.com/matrix-net">
