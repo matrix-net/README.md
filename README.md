@@ -30,6 +30,17 @@
 - Next-gen Optimization Algorithm
 - Share insights for the AI research community
 
+## 🚀 What I Do
+- **Next-gen AI Paradigm**  
+  ![Progress](https://progress-bar.dev/80/?title=Research&color=ff6f00)
+- **Next-gen Network Architecture**  
+  ![Progress](https://progress-bar.dev/90/?title=Design&color=ee4c2c)
+- **Next-gen Optimization Algorithm**  
+  ![Progress](https://progress-bar.dev/75/?title=Development&color=76b900)
+- **Share insights for the AI research community**  
+  ![Progress](https://progress-bar.dev/100/?title=Sharing&color=028cf0)
+  
+
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
