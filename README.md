@@ -54,7 +54,7 @@
 
 ## 🔧 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,aws,docker,git,github,linux" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,docker,git,github,linux" alt="tech stack" />
 </p>
 
 ## 🤝 Connect with Me
