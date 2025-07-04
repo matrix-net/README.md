@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=333333" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
-  <img src="https://img.shields.io/badge/Julia-3776AB?style=flat&logo=julia&logoColor=333333" alt="Julia">
+  <img src="https://img.shields.io/badge/Python-9558B2?style=flat&logo=python&logoColor=333333" alt="Python">
+  <img src="https://img.shields.io/badge/C++-9558B2?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=333333" alt="Julia">
 </p>
 
 <p align="center">
@@ -51,46 +51,6 @@
   <img src="https://img.shields.io/badge/Dask-028CF0?style=flat&logo=dask&logoColor=333333" alt="Dask">
   <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
 </p>
-
-## 🔧 Technologies & Tools
-<div style="
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  border-radius: 12px;
-  padding: 20px;
-  margin: 20px 0;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-">
-  
-<p align="center">
-  <strong style="color: #fff; font-size: 1.2em; display: block; margin-bottom: 15px;">Deep Learning Frameworks</strong>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=333333" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/JAX-F3745D?style=flat&logo=jax&logoColor=333333" alt="JAX">
-  <img src="https://img.shields.io/badge/Triton-FF6F00?style=flat&logoColor=333333" alt="Triton">
-</p>
-
-<p align="center">
-  <strong style="color: #fff; font-size: 1.2em; display: block; margin-bottom: 15px;">Acceleration & Deployment</strong>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=333333" alt="CUDA">
-  <img src="https://img.shields.io/badge/OpenMPI-0066CC?style=flat&logoColor=333333" alt="OpenMPI">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=333333" alt="ONNX">
-</p>
-
-<p align="center">
-  <strong style="color: #fff; font-size: 1.2em; display: block; margin-bottom: 15px;">Programming Languages</strong>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=333333" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=333333" alt="C++">
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=333333" alt="Julia">
-</p>
-
-<p align="center">
-  <strong style="color: #fff; font-size: 1.2em; display: block; margin-bottom: 15px;">Distributed Computing</strong>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=333333" alt="PySpark">
-  <img src="https://img.shields.io/badge/Dask-FD6C3F?style=flat&logo=dask&logoColor=333333" alt="Dask">
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=333333" alt="Ray">
-</p>
-
-</div>
 
 ## 🔧 Tools
 <p align="center">
