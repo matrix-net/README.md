@@ -28,9 +28,9 @@
 
 ## 🔧 Technologies
 <p align="center">
-  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
-  <strong style="color: EE4C2C; font-size: 1.2em;">Deep Learning Frameworks</strong>
-  <span style="display:inline-block; width:40px; height:2px; background:#4a4a6a; margin:0 10px;"></span>
+  <span style="display:inline-block; width:40px; height:2px; background:#EE4C2C; margin:0 12px; vertical-align: middle;"></span>
+  <strong style="color: #EE4C2C; font-size: 1.3em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2); letter-spacing: 0.5px;">DEEP LEARNING FRAMEWORKS</strong>
+  <span style="display:inline-block; width:40px; height:2px; background:#EE4C2C; margin:0 12px; vertical-align: middle;"></span>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=333333" alt="PyTorch">
