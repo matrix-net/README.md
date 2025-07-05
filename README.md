@@ -23,24 +23,6 @@
   </a>
 </div>
 
-## 🚀 What I Do
-<details>
-<summary><b>🔮 Next-gen AI Paradigm</b></summary>
-Exploring future AI Application beyond ChatGPT
-</details>
-<details>
-<summary><b>🌐 Next-gen Network Architecture</b></summary>
-Designing efficient and scalable neural network architecture beyond resnet & transformers
-</details>
-<details>
-<summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
-Developing faster and more robust optimizer beyond Adam
-</details>
-<details>
-<summary><b>📚 Share insights for the AI research community</b></summary>
-Publishing papers and open-source projects
-</details>
-
 ## 📈 Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=matrix-net&theme=github-compact)](https://github.com/matrix-net)
 
@@ -103,6 +85,24 @@ Publishing papers and open-source projects
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,docker,git,github,linux" alt="tech stack" />
 </p>
+
+## 🚀 What I Do
+<details>
+<summary><b>🔮 Next-gen AI Paradigm</b></summary>
+Exploring future AI Application beyond ChatGPT
+</details>
+<details>
+<summary><b>🌐 Next-gen Network Architecture</b></summary>
+Designing efficient and scalable neural network architecture beyond resnet & transformers
+</details>
+<details>
+<summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
+Developing faster and more robust optimizer beyond Adam
+</details>
+<details>
+<summary><b>📚 Share insights for the AI research community</b></summary>
+Publishing papers and open-source projects
+</details>
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_PROFILE])
