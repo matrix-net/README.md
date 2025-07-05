@@ -34,7 +34,7 @@ Designing efficient and scalable neural network architecture beyond resnet & tra
 </details>
 <details>
 <summary><b>⚡ Next-gen Optimization Algorithm</b></summary>
-Developing faster and more robust optimizers
+Developing faster and more robust optimizer beyond Adam
 </details>
 <details>
 <summary><b>📚 Share insights for the AI research community</b></summary>
