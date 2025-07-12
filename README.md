@@ -83,7 +83,7 @@
 
 ## 🔧 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,java,docker,git,github,linux" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,docker,github,linux" alt="tech stack" />
 </p>
 
 ## 🚀 What I Do
